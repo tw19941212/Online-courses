@@ -1,2 +1,2 @@
 # Online-courses
-Online courses的学习笔记,代码简洁记录
+Online courses的学习代码简洁记录
